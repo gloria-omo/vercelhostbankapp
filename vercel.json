@@ -1,5 +1,5 @@
 {
-    "name": "bank-app-back end",
+    "name": "bankappbackend",
     "builds": [
       {
         "src": "server.js",
